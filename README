@@ -1,7 +1,7 @@
 mediatomb
 ===========
 
-A Docker container for running [Mediatomb](http://mediatomb.cc/), a free and open source UPnP media server.
+A Docker container for running [Mediatomb](http://mediatomb.cc/), a free and open source UPnP media server for ARM architecture. Based on armv7/armhf-ubuntu:16.10.
 
 
 ````sh
